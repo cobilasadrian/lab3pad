@@ -1,0 +1,14 @@
+<employees>
+    <employee>
+        <firstName>Eugen</firstName>
+        <lastName>Moraru</lastName>
+        <department>Vinzari</department>
+        <salary>501.0</salary>
+    </employee>
+    <employee>
+        <firstName>Valeriu</firstName>
+        <lastName>Buzatu</lastName>
+        <department>Tehnic</department>
+        <salary>504.0</salary>
+    </employee>
+</employees>
